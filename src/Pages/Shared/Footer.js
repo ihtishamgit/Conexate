@@ -20,22 +20,8 @@ const Footer = () => {
                 <li class="media align-items-center">
                   <div class="media-body">
                     <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
+                      Connecting people, powering businesses with technology!
                     </small>{" "}
-                  </div>
-                </li>
-                <li class="media my-2 align-items-center">
-                  <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
-                  </div>
-                </li>
-                <li class="media align-items-center">
-                  <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>
                   </div>
                 </li>
               </ul>
@@ -45,23 +31,47 @@ const Footer = () => {
               <ul class="list-unstyled">
                 <li class="media align-items-center">
                   <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
+                    <small>Network Infrastructure</small>{" "}
                   </div>
                 </li>
                 <li class="media my-2 align-items-center">
                   <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
+                    <small>Cybersecurity</small>{" "}
                   </div>
                 </li>
                 <li class="media align-items-center">
                   <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>
+                    <small>Managed IT Services</small>
+                  </div>
+                </li>
+                <li class="media align-items-center">
+                  <div class="media-body">
+                    <small>Cloud Services</small>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h6 class="">Contact us</h6>
+              <ul class="list-unstyled">
+                <li class="media align-items-center">
+                  <div class="media-body">
+                    <small>Web & Mobile App Development</small>{" "}
+                  </div>
+                </li>
+                <li class="media my-2 align-items-center">
+                  <div class="media-body">
+                    <small>CRM</small>{" "}
+                  </div>
+                </li>
+                <li class="media align-items-center">
+                  <div class="media-body">
+                    <small>ERP</small>
+                  </div>
+                </li>
+                <li class="media align-items-center">
+                  <div class="media-body">
+                    <small>E-commerce</small>
                   </div>
                 </li>
               </ul>
@@ -72,48 +82,18 @@ const Footer = () => {
                 <li class="media align-items-center">
                   <div class="media-body">
                     <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
+                      37- Civic Center, Model Town, Lahore, Pakistan
                     </small>{" "}
                   </div>
                 </li>
                 <li class="media my-2 align-items-center">
                   <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
+                    <small>+92 42 35218801</small>{" "}
                   </div>
                 </li>
                 <li class="media align-items-center">
                   <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-3">
-              <h6 class="">Contact us</h6>
-              <ul class="list-unstyled">
-                <li class="media align-items-center">
-                  <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
-                  </div>
-                </li>
-                <li class="media my-2 align-items-center">
-                  <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>{" "}
-                  </div>
-                </li>
-                <li class="media align-items-center">
-                  <div class="media-body">
-                    <small>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing.
-                    </small>
+                    <small>info@connexate.com</small>
                   </div>
                 </li>
               </ul>

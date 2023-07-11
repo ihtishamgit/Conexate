@@ -12,7 +12,6 @@ const ConsultNow = () => {
           {" "}
           Consult now <i class="fa fa-home"></i>
         </button>
-        <button type="button" class="btn "></button>
       </div>
     </div>
   );

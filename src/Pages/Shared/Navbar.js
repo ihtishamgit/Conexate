@@ -1,4 +1,5 @@
 import React from "react";
+import ConnexateNavLogo from "../../Assets/ConnexateNavLogo.png";
 
 const Navbar = () => {
   return (
@@ -6,6 +7,11 @@ const Navbar = () => {
       <ul class="nav justify-content-between">
         <li class="nav-item">
           <a class="nav-link text-dark" aria-current="page" href="#">
+            <img
+              style={{ width: "1.5rem", height: "1.5rem" }}
+              className="img-fluid"
+              src={ConnexateNavLogo}
+            />
             Connexate
           </a>
         </li>

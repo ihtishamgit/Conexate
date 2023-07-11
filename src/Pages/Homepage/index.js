@@ -5,6 +5,8 @@ import Expertise from "./Expertise";
 import OurSolutions from "./OurSolutions";
 import ConsultNow from "./ConsultNow";
 import WhoWeAre from "./WhoWeAre";
+import ToolsAndTechnologies from "./ToolsAndTechnologies";
+import ReachOut from "./ReachOut";
 const HomePage = () => {
   return (
     <div>
@@ -14,6 +16,8 @@ const HomePage = () => {
       <OurSolutions />
       <ConsultNow />
       <WhoWeAre />
+      <ToolsAndTechnologies />
+      <ReachOut />
     </div>
   );
 };
