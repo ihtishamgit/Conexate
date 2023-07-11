@@ -9,3 +9,73 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.card-bg{
+  background-color: #F4F4F4;
+  margin: 0.5rem;
+  padding: 1rem 2rem;
+  width: 28%;
+   border-top-left-radius: 3em;
+  border-top-right-radius: 0.4em;
+  border-bottom-right-radius: 0.4em;
+  border-bottom-left-radius: 0.4em; 
+  border-bottom:4.5px solid #1A9F84; 
+}
+.card-bg-expertise{
+  background-color: #F4F4F4;
+  margin: 0.5rem;
+  padding: 1rem 2rem;
+  width: 28%;
+  /* border-top-left-radius: 3em;
+  border-top-right-radius: 0.4em;
+  border-bottom-right-radius: 0.4em;
+  border-bottom-left-radius: 0.4em; 
+  border-bottom:4.5px solid #1A9F84; */
+}
+
+.our-services-heading{
+  color: #1A9F84;
+}
+.transforming-services{
+  color:#626262;
+}
+
+.consult-now{
+  width: 70%;
+  margin: 1.5rem auto;
+}
+
+.btn-consult-now {
+  background: #1A9F84;
+  border: none;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+.btn-consult-now:hover{
+  border: none;
+}
+.who-we-are{
+  width: 60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.who-we-are-sub{
+  width: 60%;
+  margin: 1rem 0rem 4rem 0rem;
+}
+.who-we-are-desc{
+  text-align: justify;
+}
+.onea984{
+  color: #1A9F84;
+}
+
+.footer{
+  background-image: url(../src/Assets/BgFooter.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 3rem;
+}

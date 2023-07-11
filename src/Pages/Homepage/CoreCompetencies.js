@@ -11,9 +11,13 @@ const CoreCompetencies = () => {
         <h1 className="text-dark">Our Core Competencies</h1>
       </div>
 
-      <div className="cards d-flex">
-        <div className="col-4">
-          <img src={Consultation} />
+      <div className="cards d-flex justify-content-between">
+        <div className="card-bg d-flex flex-column justify-content-center align-items-center">
+          <img
+            style={{ width: "5rem" }}
+            className="img-fluid"
+            src={Consultation}
+          />
           <h3>Consultation</h3>
           <small className="text-muted">
             By leveraging our digital strategy expertise, we develop customized
@@ -21,8 +25,8 @@ const CoreCompetencies = () => {
             through technology.
           </small>
         </div>
-        <div className="col-4">
-          <img src={Consultation} />
+        <div className="card-bg d-flex flex-column justify-content-center align-items-center">
+          <img style={{ width: "5rem" }} src={Consultation} />
           <h3>Consultation</h3>
           <small className="text-muted">
             By leveraging our digital strategy expertise, we develop customized
@@ -30,8 +34,8 @@ const CoreCompetencies = () => {
             through technology.
           </small>
         </div>
-        <div className="col-4">
-          <img src={Consultation} />
+        <div className="card-bg d-flex flex-column justify-content-center align-items-center">
+          <img style={{ width: "5rem" }} src={Consultation} />
           <h3>Consultation</h3>
           <small className="text-muted">
             By leveraging our digital strategy expertise, we develop customized
